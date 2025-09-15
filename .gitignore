@@ -51,3 +51,4 @@ cython_debug/
 output_directory/
 voice_tmp.mp3
 bg_tmp.jpg
+.DS_Store
