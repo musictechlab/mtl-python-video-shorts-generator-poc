@@ -1,0 +1,7 @@
+moviepy==1.0.3
+gTTS==2.5.1
+requests==2.32.3
+numpy==1.26.4
+Pillow==9.5.0
+python-slugify==8.0.4
+dotenv==0.9.9
