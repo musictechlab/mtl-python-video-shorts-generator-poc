@@ -1,5 +1,7 @@
 # MTL Shorts
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 MTL Shorts is a Python script designed to render YouTube Shorts from newsletters fetched via an API. The script processes the newsletter data, generates a video with text and audio, and saves it to a specified output directory. This tool is just a simple Proof of Concept to show how we can generate video by using PyMovie library.
 
 ## Features
@@ -85,7 +87,6 @@ Check out this video demonstration of the project:
 ## 🎬 Demo
 
 [![Watch the demo of a sample output](https://img.youtube.com/vi/ZuAskf0uGM0/maxresdefault.jpg)](https://youtube.com/shorts/ZuAskf0uGM0)
-
 
 ## License
 
